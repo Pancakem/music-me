@@ -1,0 +1,12 @@
+quiet  = (vol 25)
+loud   = (vol 50)
+louder = (vol 75)
+loudest = (vol 100)
+
+notes  = c8 d e f g f e d c2.
+
+piano:
+  quiet notes
+  loud notes
+  louder notes
+  loudest notes
